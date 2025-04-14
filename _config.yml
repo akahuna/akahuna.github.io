@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Han
+middle_name: 
+last_name: Jeong Taek
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: kr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://akahuna.github.io # the base hostname & protocol for your site
@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: akahuna.github.io # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -114,7 +114,7 @@ giscus:
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
-  lang: en
+  lang: kr
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
