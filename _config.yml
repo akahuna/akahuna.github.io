@@ -4,7 +4,7 @@
 
 title: akahuna.github.io # the website title (if blank, full name will be used instead)
 first_name: Han
-middle_name: 
+middle_name:
 last_name: Jeong Taek
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -189,6 +189,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/about_akahuna.md
+
   - purgecss.config.js
   - README.md
   - readme_preview/
