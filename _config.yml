@@ -176,14 +176,14 @@ include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - CONTRIBUTING.md
-  - CUSTOMIZE.md
+  #  - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - FAQ.md
+  #  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
+  #  - INSTALL.md
   - LICENSE
   - lighthouse_results/
   - package.json
@@ -192,7 +192,7 @@ exclude:
   - _pages/about_akahuna.md
 
   - purgecss.config.js
-  - README.md
+  #  - README.md
   - readme_preview/
   - vendor
 keep_files:
